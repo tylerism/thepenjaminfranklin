@@ -1,0 +1,12 @@
+# Global Directories
+.DS_Store
+
+# Relative Directories
+/.idea
+/coverage
+/dist
+/node_modules
+/reports
+
+# Output
+*.tgz
